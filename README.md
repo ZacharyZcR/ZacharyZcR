@@ -10,9 +10,9 @@
 
 ### About
 
-- 🛡️ 专注 **安全研究** 与 **AI 系统工程**
-- 🔭 折腾底层：内核、注入、协议、渗透靶场
-- 🤖 也在做 LLM / MCP / Agent 方向的工具
+- 🛡️ Focused on **security research** and **AI systems engineering**
+- 🔭 Low-level tinkering: kernels, injection, protocols, pentest ranges
+- 🤖 Building tools around LLM / MCP / Agent
 - 🏢 Chengdu Yuzhian Technology Co., Ltd.
 
 ### Tech Stack
@@ -24,26 +24,15 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
-### Featured Projects
-
-| Project | Description |
-| :-- | :-- |
-| [termius-exporter](https://github.com/ZacharyZcR/termius-exporter) | Termius data exporter — liberate your data from Termius |
-| [vmware-mcp](https://github.com/ZacharyZcR/vmware-mcp) | MCP server for controlling VMware Workstation Pro |
-| [Windows_Injector](https://github.com/ZacharyZcR/Windows_Injector) | Windows process injection research |
-| [Prowl](https://github.com/ZacharyZcR/Prowl) | 综合安全靶场框架 — CTF / AWD / 红蓝对抗 |
-| [annoying-customer](https://github.com/ZacharyZcR/annoying-customer) | AI acts as demanding customers to catch product flaws |
-| [NLUI](https://github.com/ZacharyZcR/NLUI) | Natural Language User Interface — turn any API conversational |
-
 ### 🤝 Core Maintainer
 
-以 **核心维护者 / 第二作者** 身份深度参与的开源项目：
+Open-source projects I help drive as **core maintainer / second author**:
 
 | Project | Role | Description |
 | :-- | :-- | :-- |
 | [colibri](https://github.com/JustVugg/colibri) ![stars](https://img.shields.io/github/stars/JustVugg/colibri?style=flat-square) | Core Maintainer · 2nd author | Run frontier MoE models on hardware you already own — pure C, zero deps |
 | [Termix](https://github.com/Termix-SSH/Termix) ![stars](https://img.shields.io/github/stars/Termix-SSH/Termix?style=flat-square) | Core Maintainer · 2nd author | Self-hosted SSH and remote desktop management |
-| [fscan](https://github.com/shadow1ng/fscan) ![stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square) | Core Maintainer · 2nd author | 内网综合扫描工具，一键自动化全方位漏扫 |
+| [fscan](https://github.com/shadow1ng/fscan) ![stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square) | Core Maintainer · 2nd author | All-in-one intranet scanner for one-click automated vulnerability scanning |
 
 ### Stats
 
