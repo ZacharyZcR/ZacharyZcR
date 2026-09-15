@@ -35,15 +35,15 @@
 | [annoying-customer](https://github.com/ZacharyZcR/annoying-customer) | AI acts as demanding customers to catch product flaws |
 | [NLUI](https://github.com/ZacharyZcR/NLUI) | Natural Language User Interface — turn any API conversational |
 
-### 🤝 Collaborations
+### 🤝 Core Maintainer
 
-与优秀的开发者共同打造的开源项目：
+以 **核心维护者 / 第二作者** 身份深度参与的开源项目：
 
-| Project | Co-developed with | Description |
+| Project | Role | Description |
 | :-- | :-- | :-- |
-| [colibri](https://github.com/JustVugg/colibri) ![stars](https://img.shields.io/github/stars/JustVugg/colibri?style=flat-square) | [@JustVugg](https://github.com/JustVugg) | Run frontier MoE models on hardware you already own — pure C, zero deps |
-| [Termix](https://github.com/Termix-SSH/Termix) ![stars](https://img.shields.io/github/stars/Termix-SSH/Termix?style=flat-square) | [@LukeGus](https://github.com/LukeGus) | Self-hosted SSH and remote desktop management |
-| [fscan](https://github.com/shadow1ng/fscan) ![stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square) | [@shadow1ng](https://github.com/shadow1ng) | 内网综合扫描工具，一键自动化全方位漏扫 |
+| [colibri](https://github.com/JustVugg/colibri) ![stars](https://img.shields.io/github/stars/JustVugg/colibri?style=flat-square) | Core Maintainer · 2nd author | Run frontier MoE models on hardware you already own — pure C, zero deps |
+| [Termix](https://github.com/Termix-SSH/Termix) ![stars](https://img.shields.io/github/stars/Termix-SSH/Termix?style=flat-square) | Core Maintainer · 2nd author | Self-hosted SSH and remote desktop management |
+| [fscan](https://github.com/shadow1ng/fscan) ![stars](https://img.shields.io/github/stars/shadow1ng/fscan?style=flat-square) | Core Maintainer · 2nd author | 内网综合扫描工具，一键自动化全方位漏扫 |
 
 ### Stats
 
